@@ -12,3 +12,5 @@ In this way we won't trigger the plugin-hang-ui
 
 The script works on Firefox only for now and was tested on Flash >= 17.0.0.188 32bit  
 Requirements: pykd >= 0.3  
+
+https://www.offensive-security.com/vulndev/fldbg-a-pykd-script-to-debug-flashplayer/
